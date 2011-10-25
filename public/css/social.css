@@ -1,0 +1,115 @@
+/*** ICONS E SPRITES ***/
+.icon-map {background-image:url("../images/sprite-social.png");background-repeat:no-repeat;}
+.icon-twitter {background-position:0 0;}
+.icon-facebook {background-position:-31px 0;}
+.icon-myspace {background-position:-62px 0;}
+.icon-buzz {background-position:-93px 0;}
+.icon-orkut {background-position:-124px 0;}
+/*** /ICONS E SPRITES ***/
+
+/** Social Icons **/
+body .social {
+    cursor: pointer;
+    height: 52px;
+    left: -138px;
+    overflow: hidden;
+    position: fixed;
+    width: 186px;
+}
+body .social_closed {
+    left: -170px;
+}
+body .social_open {
+    left: 0;
+}
+body .social .icon {
+    background: url("../img/sprite_social-reduce.png") repeat scroll -444px 0 transparent;
+    float: right;
+    height: 52px;
+    width: 56px;
+}
+body .social .tray {
+    background: url("../img/sprite_social-reduce.png") repeat-x scroll 0 0 transparent;
+    float: right;
+    height: 52px;
+    width: 130px;
+}
+body .social_facebook {
+    top: 230px;
+}
+body .social_facebook .icon {
+    background-position: -444px 0;
+}
+body .social_facebook .tray {
+    background-position: 0 0;
+}
+body .social_facebook .tray p {
+    display: block;
+    height: 18px;
+    line-height: 18px;
+    margin-top: 4px;
+    padding-left: 20px;
+}
+body .social_facebook .tray p a, body .social_facebook .tray p a:active, body .social_facebook .tray p a:visited {
+    color: #215F93;
+    display: block;
+    font-size: 9px;
+    width: 100%;
+}
+body .social_twitter {
+    top: 280px;
+}
+body .social_twitter .icon {
+    background-position: -444px -106px;
+}
+body .social_twitter .tray {
+    background-position: 0 -106px;
+}
+body .social_twitter .tray p {
+    height: 100%;
+    line-height: 52px;
+    text-align: center;
+    width: 100%;
+}
+body .social_twitter .tray p a {
+    color: #3EB0FF;
+    display: block;
+    font-size: 12px;
+    font-weight: bold;
+    height: 100%;
+    text-align: center;
+    text-shadow: 1px 1px 0px #eee;
+    width: 100%;
+}
+body .social_twitter .tray p a:hover {
+    text-decoration: none;
+}
+body .social_invite {
+    top: 224px;
+}
+body .social_invite .icon {
+    background-position: -444px -53px;
+}
+body .social_invite .tray {
+    background-position: 0 -53px;
+}
+body .social_invite .tray p {
+    height: 100%;
+    line-height: 52px;
+    text-align: center;
+    width: 100%;
+}
+body .social_invite .tray p a {
+    color: #ACACAC;
+    display: block;
+    font-size: 13px;
+    font-weight: bold;
+    height: 100%;
+    text-align: center;
+    text-shadow: 0 0 5px #CCCCCC;
+    width: 100%;
+}
+body .social_invite .tray p a:hover {
+    text-decoration: none;
+}
+/** Social Icons **/

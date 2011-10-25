@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" width="20" height="20" tilewidth="16" tileheight="16">
+ <tileset firstgid="1" name="TileA2" tilewidth="16" tileheight="16">
+  <image source="C:/Users/thiago/Desktop/TileA2.png" width="512" height="384"/>
+ </tileset>
+ <tileset firstgid="769" name="TileA1" tilewidth="16" tileheight="16">
+  <image source="C:/Users/thiago/Desktop/TileA1.png" width="512" height="384"/>
+ </tileset>
+ <layer name="Camada de Tiles 1" width="20" height="20">
+  <data encoding="base64" compression="zlib">
+   eJzt02dOAlEYheEB7Iq4BbEXkC0I2OsWBLsCbsEZFEEFt2DvZSOWjViW4DvJTTwhkJj4V5InZ+7MPV++P3gsy/JaPz8fauBHq7wPoA0eLnh9cp/nGjm3Iyi9DnQihLC8H0LEvU83KP0OnjvlPIwoYpJxzGAWc5Lz7n26UcQk4zJvAQkkJReRQhoZyS33Pt0EkpKLMm8btsxykMUhijKrhCP3Pl1bZjnIVtjPNrPK9yuaWeX72WZWtf0cSd2vJKn7OZK63zFOcCp5hns84FHyyb1P9wSnkmcy7xkvP0frFW9oRJO8b0YLaunWSb+e5wY5v+NDep/4Qh/65f0ABtFFt1v6PTz3ytnv4X9gBIw2TPBtElOS0xihO4oxyXGZF6IbNoaMCNb4to4NyU0s0V3GiuTqL+bl+VaQWfs4wA7dXZmVw57Mm6E7a8wZ87Jfwcwq32/XzCrfr9q8vMwqVNgvJ6n7peimjYyxhWu+3eBW8g7ndC9wKXkl8/5/f/t9A7fSaHE=
+  </data>
+ </layer>
+</map>

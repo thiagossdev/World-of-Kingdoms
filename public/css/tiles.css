@@ -1,0 +1,34 @@
+@CHARSET "utf8";
+
+div.layer_1{
+	float: left;
+	height: 64px;
+	overflow: hidden;
+	width: 64px;
+}
+div.layer_2{
+	height: 64px;
+	overflow: hidden;
+	width: 64px;
+}
+div.layer_3{
+	background: transparent;
+	height: 64px;
+	overflow: hidden;
+	width: 64px;
+}
+div.layer_3_cursor{
+	background-image: url('../images/tilesets/cursor.png');
+	cursor: url('../images/ptx.gif'), auto;
+	height: 64px;
+	overflow: hidden;
+	width: 64px;
+}
+
+div.map{
+	border: 1px solid #000000;
+	float: left;
+	height: 512px;
+	overflow: hidden;
+	width: 640px;
+}

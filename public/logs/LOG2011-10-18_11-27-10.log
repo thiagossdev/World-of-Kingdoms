@@ -1,0 +1,447 @@
+<>2011/10/18 11:27:20
+><2011/10/18 11:27:20
+
+<>2011/10/18 11:27:30
+--->Event_1>: <CMD>_moveTo|3|-3|9|0|_construct|1|3.
+ARF
+3, 3
+><2011/10/18 11:27:30
+
+<>2011/10/18 11:27:40
+--->Event_1>: <CMD>_moveTo|4|-3|9|0|_construct|1|3.
+ARF
+4, 3
+><2011/10/18 11:27:40
+
+<>2011/10/18 11:27:50
+--->Event_1>: <CMD>_moveTo|5|-3|9|0|_construct|1|3.
+ARF
+5, 3
+><2011/10/18 11:27:50
+
+<>2011/10/18 11:28:00
+--->Event_1>: <CMD>_moveTo|6|-3|9|0|_construct|1|3.
+ARF
+6, 3
+><2011/10/18 11:28:00
+
+<>2011/10/18 11:28:10
+--->Event_1>: <CMD>_moveTo|7|-3|9|0|_construct|1|3.
+ARF
+7, 3
+><2011/10/18 11:28:10
+
+<>2011/10/18 11:28:20
+--->Event_1>: <CMD>_moveTo|8|-3|9|0|_construct|1|3.
+ARF
+8, 3
+><2011/10/18 11:28:20
+
+<>2011/10/18 11:28:30
+--->Event_1>: <CMD>_moveTo|9|-3|9|0|_construct|1|3.
+ARF
+9, 3
+><2011/10/18 11:28:30
+
+<>2011/10/18 11:28:40
+--->Event_1>: <CMD>_moveTo|9|-2|9|0|_construct|1|3.
+ARF
+9, 2
+><2011/10/18 11:28:40
+
+<>2011/10/18 11:28:50
+--->Event_1>: <CMD>_moveTo|9|-1|9|0|_construct|1|3.
+ARF
+9, 1
+><2011/10/18 11:28:50
+
+<>2011/10/18 11:29:00
+--->Event_1>: <CMD>_moveTo|9|0|9|0|_construct|1|3.
+><2011/10/18 11:29:00
+
+<>2011/10/18 11:29:10
+><2011/10/18 11:29:10
+
+<>2011/10/18 11:29:20
+--->Event_3>: <CMD>_moveTo|3|-3|0|-7|_construct|1|3.
+ARF
+3, 3
+><2011/10/18 11:29:20
+
+<>2011/10/18 11:29:30
+--->Event_2>: <CMD>_construct|1|3|9|0.
+--->Event_3>: <CMD>_moveTo|2|-3|0|-7|_construct|1|3.
+ARF
+2, 3
+--->Event_4>: <CMD>_moveTo|3|-3|7|0|_construct|1|3.
+ARF
+3, 3
+><2011/10/18 11:29:30
+
+<>2011/10/18 11:29:40
+--->Event_3>: <CMD>_moveTo|1|-3|0|-7|_construct|1|3.
+ARF
+1, 3
+--->Event_4>: <CMD>_moveTo|4|-3|7|0|_construct|1|3.
+ARF
+4, 3
+--->Event_5>: <CMD>_moveTo|3|-3|8|-3|_construct|1|3.
+ARF
+3, 3
+--->Event_6>: <CMD>_moveTo|3|-3|undefined|undefined|_construct|1.
+ARF
+3, 3
+><2011/10/18 11:29:41
+
+<>2011/10/18 11:29:50
+--->Event_3>: <CMD>_moveTo|0|-3|0|-7|_construct|1|3.
+ARF
+0, 3
+--->Event_4>: <CMD>_moveTo|5|-3|7|0|_construct|1|3.
+ARF
+5, 3
+--->Event_5>: <CMD>_moveTo|4|-3|8|-3|_construct|1|3.
+ARF
+4, 3
+--->Event_6>: <CMD>_moveTo|4|-3|undefined|undefined|_construct|1.
+ARF
+4, 3
+><2011/10/18 11:29:50
+
+<>2011/10/18 11:30:00
+--->Event_3>: <CMD>_moveTo|0|-4|0|-7|_construct|1|3.
+ARF
+0, 4
+--->Event_4>: <CMD>_moveTo|6|-3|7|0|_construct|1|3.
+ARF
+6, 3
+--->Event_5>: <CMD>_moveTo|5|-3|8|-3|_construct|1|3.
+ARF
+5, 3
+--->Event_6>: <CMD>_moveTo|5|-3|undefined|undefined|_construct|1.
+ARF
+5, 3
+><2011/10/18 11:30:00
+
+<>2011/10/18 11:30:10
+--->Event_3>: <CMD>_moveTo|0|-5|0|-7|_construct|1|3.
+ARF
+0, 5
+--->Event_4>: <CMD>_moveTo|7|-3|7|0|_construct|1|3.
+ARF
+7, 3
+--->Event_5>: <CMD>_moveTo|6|-3|8|-3|_construct|1|3.
+ARF
+6, 3
+--->Event_6>: <CMD>_moveTo|6|-3|undefined|undefined|_construct|1.
+ARF
+6, 3
+><2011/10/18 11:30:10
+
+<>2011/10/18 11:30:20
+--->Event_3>: <CMD>_moveTo|0|-6|0|-7|_construct|1|3.
+ARF
+0, 6
+--->Event_4>: <CMD>_moveTo|7|-2|7|0|_construct|1|3.
+ARF
+7, 2
+--->Event_5>: <CMD>_moveTo|7|-3|8|-3|_construct|1|3.
+ARF
+7, 3
+--->Event_6>: <CMD>_moveTo|7|-3|undefined|undefined|_construct|1.
+ARF
+7, 3
+><2011/10/18 11:30:20
+
+<>2011/10/18 11:30:30
+--->Event_3>: <CMD>_moveTo|0|-7|0|-7|_construct|1|3.
+--->Event_4>: <CMD>_moveTo|7|-1|7|0|_construct|1|3.
+ARF
+7, 1
+--->Event_5>: <CMD>_moveTo|8|-3|8|-3|_construct|1|3.
+--->Event_6>: <CMD>_moveTo|8|-3|undefined|undefined|_construct|1.
+ARF
+8, 3
+><2011/10/18 11:30:30
+
+<>2011/10/18 11:30:40
+--->Event_4>: <CMD>_moveTo|7|0|7|0|_construct|1|3.
+--->Event_6>: <CMD>_moveTo|9|-3|undefined|undefined|_construct|1.
+ARF
+9, 3
+><2011/10/18 11:30:40
+
+<>2011/10/18 11:30:50
+--->Event_6>: <CMD>_moveTo|10|-3|undefined|undefined|_construct|.
+10, 3
+><2011/10/18 11:30:50
+
+<>2011/10/18 11:31:00
+--->Event_6>: <CMD>_moveTo|11|-3|undefined|undefined|_construct|.
+11, 3
+--->Event_7>: <CMD>_construct|1|3|0|-7.
+--->Event_8>: <CMD>_construct|1|3|8|-3.
+><2011/10/18 11:31:01
+
+<>2011/10/18 11:31:10
+--->Event_6>: <CMD>_moveTo|12|-3|undefined|undefined|_construct|.
+12, 3
+--->Event_9>: <CMD>_construct|1|3|7|0.
+><2011/10/18 11:31:10
+
+<>2011/10/18 11:31:20
+--->Event_6>: <CMD>_moveTo|13|-3|undefined|undefined|_construct|.
+13, 3
+><2011/10/18 11:31:20
+
+<>2011/10/18 11:31:30
+--->Event_6>: <CMD>_moveTo|14|-3|undefined|undefined|_construct|.
+14, 3
+--->Event_10>: <CMD>_moveTo|3|-3|7|-3|_construct|1|3.
+ARF
+3, 3
+--->Event_11>: <CMD>_moveTo|3|-3|undefined|undefined|_construct|1.
+ARF
+3, 3
+><2011/10/18 11:31:30
+
+<>2011/10/18 11:31:40
+--->Event_6>: <CMD>_moveTo|15|-3|undefined|undefined|_construct|.
+15, 3
+--->Event_10>: <CMD>_moveTo|4|-3|7|-3|_construct|1|3.
+ARF
+4, 3
+--->Event_11>: <CMD>_moveTo|4|-3|undefined|undefined|_construct|1.
+ARF
+4, 3
+><2011/10/18 11:31:40
+
+<>2011/10/18 11:31:50
+--->Event_6>: <CMD>_moveTo|16|-3|undefined|undefined|_construct|.
+16, 3
+--->Event_10>: <CMD>_moveTo|5|-3|7|-3|_construct|1|3.
+ARF
+5, 3
+--->Event_11>: <CMD>_moveTo|5|-3|undefined|undefined|_construct|1.
+ARF
+5, 3
+><2011/10/18 11:31:50
+
+<>2011/10/18 11:32:00
+--->Event_6>: <CMD>_moveTo|17|-3|undefined|undefined|_construct|.
+17, 3
+--->Event_10>: <CMD>_moveTo|6|-3|7|-3|_construct|1|3.
+ARF
+6, 3
+--->Event_11>: <CMD>_moveTo|6|-3|undefined|undefined|_construct|1.
+ARF
+6, 3
+><2011/10/18 11:32:00
+
+<>2011/10/18 11:32:10
+--->Event_6>: <CMD>_moveTo|18|-3|undefined|undefined|_construct|.
+18, 3
+--->Event_10>: <CMD>_moveTo|7|-3|7|-3|_construct|1|3.
+--->Event_11>: <CMD>_moveTo|7|-3|undefined|undefined|_construct|1.
+ARF
+7, 3
+--->Event_12>: <CMD>_moveTo|3|-3|8|-2|_construct|1|3.
+ARF
+3, 3
+><2011/10/18 11:32:10
+
+<>2011/10/18 11:32:20
+--->Event_6>: <CMD>_moveTo|19|-3|undefined|undefined|_construct|.
+19, 3
+--->Event_11>: <CMD>_moveTo|8|-3|undefined|undefined|_construct|1.
+ARF
+8, 3
+--->Event_12>: <CMD>_moveTo|4|-3|8|-2|_construct|1|3.
+ARF
+4, 3
+><2011/10/18 11:32:20
+
+<>2011/10/18 11:32:30
+--->Event_6>: <CMD>_moveTo|20|-3|undefined|undefined|_construct|.
+20, 3
+--->Event_11>: <CMD>_moveTo|9|-3|undefined|undefined|_construct|1.
+ARF
+9, 3
+--->Event_12>: <CMD>_moveTo|5|-3|8|-2|_construct|1|3.
+ARF
+5, 3
+><2011/10/18 11:32:30
+
+<>2011/10/18 11:32:40
+--->Event_6>: <CMD>_moveTo|21|-3|undefined|undefined|_construct|.
+21, 3
+--->Event_11>: <CMD>_moveTo|10|-3|undefined|undefined|_construct|.
+10, 3
+--->Event_12>: <CMD>_moveTo|6|-3|8|-2|_construct|1|3.
+ARF
+6, 3
+--->Event_13>: <CMD>_construct|1|3|7|-3.
+><2011/10/18 11:32:40
+
+<>2011/10/18 11:32:50
+--->Event_6>: <CMD>_moveTo|22|-3|undefined|undefined|_construct|.
+22, 3
+--->Event_11>: <CMD>_moveTo|11|-3|undefined|undefined|_construct|.
+11, 3
+--->Event_12>: <CMD>_moveTo|7|-3|8|-2|_construct|1|3.
+ARF
+7, 3
+><2011/10/18 11:32:50
+
+<>2011/10/18 11:33:00
+--->Event_6>: <CMD>_moveTo|23|-3|undefined|undefined|_construct|.
+23, 3
+--->Event_11>: <CMD>_moveTo|12|-3|undefined|undefined|_construct|.
+12, 3
+--->Event_12>: <CMD>_moveTo|8|-3|8|-2|_construct|1|3.
+ARF
+8, 3
+><2011/10/18 11:33:01
+
+<>2011/10/18 11:33:10
+--->Event_6>: <CMD>_moveTo|24|-3|undefined|undefined|_construct|.
+24, 3
+--->Event_11>: <CMD>_moveTo|13|-3|undefined|undefined|_construct|.
+13, 3
+--->Event_12>: <CMD>_moveTo|8|-2|8|-2|_construct|1|3.
+><2011/10/18 11:33:10
+
+<>2011/10/18 11:33:20
+--->Event_6>: <CMD>_moveTo|25|-3|undefined|undefined|_construct|.
+25, 3
+--->Event_11>: <CMD>_moveTo|14|-3|undefined|undefined|_construct|.
+14, 3
+><2011/10/18 11:33:20
+
+<>2011/10/18 11:33:30
+--->Event_6>: <CMD>_moveTo|26|-3|undefined|undefined|_construct|.
+26, 3
+--->Event_11>: <CMD>_moveTo|15|-3|undefined|undefined|_construct|.
+15, 3
+><2011/10/18 11:33:30
+
+<>2011/10/18 11:33:40
+--->Event_6>: <CMD>_moveTo|27|-3|undefined|undefined|_construct|.
+27, 3
+--->Event_11>: <CMD>_moveTo|16|-3|undefined|undefined|_construct|.
+16, 3
+--->Event_14>: <CMD>_construct|1|3|8|-2.
+><2011/10/18 11:33:40
+
+<>2011/10/18 11:33:50
+--->Event_6>: <CMD>_moveTo|28|-3|undefined|undefined|_construct|.
+28, 3
+--->Event_11>: <CMD>_moveTo|17|-3|undefined|undefined|_construct|.
+17, 3
+><2011/10/18 11:33:50
+
+<>2011/10/18 11:34:00
+--->Event_6>: <CMD>_moveTo|29|-3|undefined|undefined|_construct|.
+29, 3
+--->Event_11>: <CMD>_moveTo|18|-3|undefined|undefined|_construct|.
+18, 3
+><2011/10/18 11:34:00
+
+<>2011/10/18 11:34:10
+--->Event_6>: <CMD>_moveTo|30|-3|undefined|undefined|_construct|.
+30, 3
+--->Event_11>: <CMD>_moveTo|19|-3|undefined|undefined|_construct|.
+19, 3
+><2011/10/18 11:34:10
+
+<>2011/10/18 11:34:20
+--->Event_6>: <CMD>_moveTo|31|-3|undefined|undefined|_construct|.
+31, 3
+--->Event_11>: <CMD>_moveTo|20|-3|undefined|undefined|_construct|.
+20, 3
+><2011/10/18 11:34:20
+
+<>2011/10/18 11:34:30
+--->Event_6>: <CMD>_moveTo|32|-3|undefined|undefined|_construct|.
+32, 3
+--->Event_11>: <CMD>_moveTo|21|-3|undefined|undefined|_construct|.
+21, 3
+><2011/10/18 11:34:30
+
+<>2011/10/18 11:34:40
+--->Event_6>: <CMD>_moveTo|33|-3|undefined|undefined|_construct|.
+33, 3
+--->Event_11>: <CMD>_moveTo|22|-3|undefined|undefined|_construct|.
+22, 3
+><2011/10/18 11:34:40
+
+<>2011/10/18 11:34:50
+--->Event_6>: <CMD>_moveTo|34|-3|undefined|undefined|_construct|.
+34, 3
+--->Event_11>: <CMD>_moveTo|23|-3|undefined|undefined|_construct|.
+23, 3
+><2011/10/18 11:34:50
+
+<>2011/10/18 11:35:00
+--->Event_6>: <CMD>_moveTo|35|-3|undefined|undefined|_construct|.
+35, 3
+--->Event_11>: <CMD>_moveTo|24|-3|undefined|undefined|_construct|.
+24, 3
+><2011/10/18 11:35:00
+
+<>2011/10/18 11:35:10
+--->Event_6>: <CMD>_moveTo|36|-3|undefined|undefined|_construct|.
+36, 3
+--->Event_11>: <CMD>_moveTo|25|-3|undefined|undefined|_construct|.
+25, 3
+><2011/10/18 11:35:10
+
+<>2011/10/18 11:35:20
+--->Event_6>: <CMD>_moveTo|37|-3|undefined|undefined|_construct|.
+37, 3
+--->Event_11>: <CMD>_moveTo|26|-3|undefined|undefined|_construct|.
+26, 3
+><2011/10/18 11:35:20
+
+<>2011/10/18 11:35:30
+--->Event_6>: <CMD>_moveTo|38|-3|undefined|undefined|_construct|.
+38, 3
+--->Event_11>: <CMD>_moveTo|27|-3|undefined|undefined|_construct|.
+27, 3
+><2011/10/18 11:35:30
+
+<>2011/10/18 11:35:40
+--->Event_6>: <CMD>_moveTo|39|-3|undefined|undefined|_construct|.
+39, 3
+--->Event_11>: <CMD>_moveTo|28|-3|undefined|undefined|_construct|.
+28, 3
+><2011/10/18 11:35:41
+
+<>2011/10/18 11:35:50
+--->Event_6>: <CMD>_moveTo|40|-3|undefined|undefined|_construct|.
+40, 3
+--->Event_11>: <CMD>_moveTo|29|-3|undefined|undefined|_construct|.
+29, 3
+><2011/10/18 11:35:50
+
+<>2011/10/18 11:36:00
+--->Event_6>: <CMD>_moveTo|41|-3|undefined|undefined|_construct|.
+41, 3
+--->Event_11>: <CMD>_moveTo|30|-3|undefined|undefined|_construct|.
+30, 3
+><2011/10/18 11:36:00
+
+<>2011/10/18 11:36:10
+--->Event_6>: <CMD>_moveTo|42|-3|undefined|undefined|_construct|.
+42, 3
+--->Event_11>: <CMD>_moveTo|31|-3|undefined|undefined|_construct|.
+31, 3
+><2011/10/18 11:36:10
+
+<>2011/10/18 11:36:20
+--->Event_6>: <CMD>_moveTo|43|-3|undefined|undefined|_construct|.
+43, 3
+--->Event_11>: <CMD>_moveTo|32|-3|undefined|undefined|_construct|.
+32, 3
+><2011/10/18 11:36:20
+
