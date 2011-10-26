@@ -1,0 +1,15 @@
+Wolrd of Kingdoms - First Commit
+Desenvolvido em PHP + framework CodeIgniter
+
+application -> Pasta da aplicação, Configurações, controllers, modelos e visões aqui.
+public -> CSS, imagens, javascript, entre outros arquivos aqui.
+system -> core do CodeIgniter.
+user_guide -> Manual do CodeIgniter.
+
+Na pasta files existe um arquivo wok.mwb que é o banco de dados modelado em mysql workbranch.
+
+IMPORTANTE:
+Em application pastas com arquivos importantes:
+	controllers, helpers, libraries, models, views
+Além do CodeIgneter, está sendo usado IgnetedRecord para mapeamento objeto relacional.
+Desconsiderar a librarie do IgnetedRecord, e procurar o manual no google.
